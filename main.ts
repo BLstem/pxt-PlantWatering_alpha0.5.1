@@ -5,8 +5,8 @@
 namespace watersensor {
 
     /**Read the analog output from the water sensor */
-    //%block="water sensor read pin %arg_pin"
-    //%blockId=watersesnorreading
+    //%block="water sensor analog read pin %arg_pin"
+    //%blockId=watersensorreading
     //%arg_pin.fieldEditor="gridpicker" arg_pin.fieldOptions.columns=5 arg_pin.defl=AnalogPin.P1
     export function watersensorreading(arg_pin: AnalogPin): number {
         let x = -1 * pins.analogReadPin(arg_pin)
