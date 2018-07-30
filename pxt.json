@@ -1,0 +1,14 @@
+{
+    "name": "Water sensor",
+    "version": "0.0.1",
+    "description": "Read the output from water sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
