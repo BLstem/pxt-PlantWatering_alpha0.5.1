@@ -1,7 +1,6 @@
-/**Developed by BL Contenets team.*/
+/**Developed by BL Contents team.*/
 
-//%color=#01DF01 icon="\uf043" block="watersensor"
-
+//%color=#01DF01 icon="\uf043" block="WaterSensor"
 namespace watersensor {
 
     /**Read the analog output from the water sensor */
