@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
+        "watersensor.ts",
         "_locales/zh/watersensor-strings.json"
     ],
     "public": true
