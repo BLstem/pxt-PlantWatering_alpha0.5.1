@@ -1,0 +1,4 @@
+{
+    "watersensor|block": "水分感應器",
+    "watersensor.watersensorreading|block": "讀取水分感應器的類比讀數 腳位%arg_pin"
+}
